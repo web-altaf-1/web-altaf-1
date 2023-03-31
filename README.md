@@ -71,5 +71,5 @@
 <br> <br>
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
-![snake gif](https://raw.githubusercontent.com/web-altaf-1/web-altaf-1/0e57dae005d9674154a2b13dabebcbb44cc0f3de/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/web-altaf-1/web-altaf-1/blob/output/github-contribution-grid-snake.svg)
       
