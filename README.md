@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/webaltaf1/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/altaf.web" target="blank"><img align="center"
+  <a href="https://fb.com/100088273593824" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Facebook Link" height="30" width="40" /></a>
  <a href="https://twitter.com/webaltaf1" target="blank"><img align="center"
