@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=web-altaf-1&color=brightgreen"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=web-altaf-1&color=orange"
     alt="adam-pw" /> 
   </p>
 
