@@ -60,5 +60,3 @@
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://github.com/web-altaf-1/web-altaf-1/blob/output/github-contribution-grid-snake.svg)
-      
-![snake animation](https://github.com/web-altaf-1/web-altaf-1/blob/output/github-contribution-grid-snake2.svg)
