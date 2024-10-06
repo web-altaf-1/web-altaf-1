@@ -12,7 +12,7 @@
 <p><img align="right" src="https://i.ibb.co/p45qVv8/animation-500-kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I am currently learning programming languages and working at Karmasangsthan LTD as a Full Stack Developer.
+- 🌱 I am currently learning programming languages and working at IAK Global Consulting LTD as a Full Stack Developer.
 
 - 📫 How to reach me **web.altaf.1@gmail.com**
 
