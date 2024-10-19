@@ -8,37 +8,103 @@
   </p>
 
 <br>
+Hi, this is Sabbir—a senior developer specializing in ReactJs, FastAPI, NodeJs, React-native, ElectronJs, NextJs, and Spring boot. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
 
-<p><img align="right" src="https://i.ibb.co/p45qVv8/animation-500-kxa883sd.gif" alt="adam-pw" /></p>
+My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and chancing results to complex problems.  
+Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/@stsabbir)" to more than **1000 subscribers**.
 
+   <p align="left">
+      <a href="https://www.youtube.com/c/stsabbir?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/stsabbir">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC-kwgB_vfZlCtI_eXijNhMw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/devlopersabbir?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devlopersabbir?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/devlopersabbir?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devlopersabbir?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-- 🌱 I am currently learning programming languages and working at IAK Global Consulting LTD as a Full Stack Developer.
+---
 
-- 📫 How to reach me **web.altaf.1@gmail.com**
+| Bizness 🚀                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Weapons 🌟                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📎 [Resume/CV](./resume/Sabbir.pdf)<br>✉ [devlopersabbir@gmail.com](mailto:devlopersabbir@gmail.com)<br>🎁 [devlopersabbir](https://www.showwcase.com/devlopersabbir)<br><br><br>[![Facebook](https://img.shields.io/badge/-Facebook-17202A?style=for-the-badge&labelColor=2980B9&logo=facebook&logoColor=61DBFB)](https://facebook.com/devlopersabbir)[![Instagram](https://img.shields.io/badge/-Instagram-17202A?style=for-the-badge&labelColor=2980B9&logo=instagram&logoColor=61DBFB)](https://instagram.com/devlopersabbir)<br>[![Twitter](https://img.shields.io/badge/-twitter-17202A?style=for-the-badge&labelColor=2980B9&logo=twitter&logoColor=61DBFB)](https://twitter.com/devlopersabbir)[![Linkedin](https://img.shields.io/badge/-linkedin-17202A?style=for-the-badge&labelColor=2980B9&logo=linkedin&logoColor=61DBFB)](https://www.linkedin.com/in/devlopersabbir/) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlopersabbir&theme=react)](https://github.com/devlopersabbir/github-readme-stats) |
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+### ⚙ Most uses of Technology
 
-<br>
+[![TypeScript](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)](https://img.shields.io/badge/-TypeScript-17202A?style=for-the-badge&labelColor=2980B9&logo=javascript&logoColor=61DBFB)
+[![FastAPI](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)](https://img.shields.io/badge/-fastapi-1ABC9C?style=for-the-badge&labelColor=17202A&logo=fastapi&logoColor=61DBFB)
+[![Srping boot](https://img.shields.io/badge/-spring_boot-008000?style=for-the-badge&labelColor=fff&logo=spring&logoColor=008000)](https://img.shields.io/badge/-spring_boot-008000?style=for-the-badge&labelColor=fff&logo=spring&logoColor=008000)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+[![Express](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)](https://img.shields.io/badge/-express-8E44AD?style=for-the-badge&labelColor=black&logo=express&logoColor=61DBFB)
+[![NextJs](https://img.shields.io/badge/-NextJs-273746?style=for-the-badge&labelColor=black&logo=vercel&logoColor=EAECEE)](https://img.shields.io/badge/-NextJs-273746?style=for-the-badge&labelColor=black&logo=vercel&logoColor=EAECEE)
+[![electron](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)](https://img.shields.io/badge/-electron-F1C40F?style=for-the-badge&labelColor=17202A&logo=electron&logoColor=61DBFB)
+[![native](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)](https://img.shields.io/badge/-native-C0392B?style=for-the-badge&labelColor=17202A&logo=react&logoColor=61DBFB)
+[![postgressql](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)](https://img.shields.io/badge/-postgresql-16A085?style=for-the-badge&labelColor=17202A&logo=postgresql&logoColor=61DBFB)
+[![react-redux](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)](https://img.shields.io/badge/-react_redux-9B59B6?style=for-the-badge&labelColor=17202A&logo=redux&logoColor=61DBFB)
+[![docker](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)](https://img.shields.io/badge/-docker-2E86C1?style=for-the-badge&labelColor=17202A&logo=docker&logoColor=2E86C1)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/100088273593824" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Facebook Link" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/webaltaf1/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" /></a>
- <a href="https://twitter.com/webaltaf1" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Twitter" height="30" width="40" /></a>
-</p>
+---
 
-<br>
+### 🧰 Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3>
-    <p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+<img align="left" alt="JavaScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
-<br>
+<img align="left" alt="Java" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+<img align="left" alt="TypeScript" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
+<img align="left" alt="c-sharp" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+<img align="left" alt="NodeJS" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img align="left" alt="Python" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+<img align="left" alt="React" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img align="left" alt="NextJs" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+
+<img align="left" alt="Redux" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
+<img align="left" alt="MySQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+<img align="left" alt="Mongoodb" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
+<img align="left" alt="PostGresQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<img align="left" alt="HTML" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+<img align="left" alt="CSS" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+<img align="left" alt="Boostrap" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
+<img align="left" alt="Meterial UI" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+<br />
+<br />
+<img align="left" alt="Git" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="Linux" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Docker" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+<img align="left" alt="GitHub" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+<img align="left" alt="Bash" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<img align="left" alt="Electronjs" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+
+<img align="left" alt="GraphQL" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+
+<img align="left" alt="Android" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
+
+<img align="left" alt="Socket.io" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+
+<img align="left" alt="Apple" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+
+<img align="left" alt="TensorFlow" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+
+<br /> <br />
+
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
