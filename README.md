@@ -126,3 +126,9 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://github.com/web-altaf-1/web-altaf-1/blob/output/github-contribution-grid-snake.svg)
+
+
+#
+
+**For the support**
+[Buy Me A Coffee](https://buymeacoffee.com/altafhossen)
