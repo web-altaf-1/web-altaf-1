@@ -75,8 +75,6 @@ Also, I'm a YouTube video creator. I publish tech / programming-related content 
 
 <img align="left" alt="CSS" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-<img align="left" alt="Boostrap" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-
 <img align="left" alt="Meterial UI" width="30px" style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <br />
 <br />
