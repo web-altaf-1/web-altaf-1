@@ -8,10 +8,9 @@
   </p>
 
 <br>
-Hi, this is Altaf—a senior developer specializing in ReactJs, FastAPI, NodeJs, React-native, NextJs, and Spring boot. I have been developing full-stack applications for more than 4 years. I am an expert in JavaScript because I love it so much.😍
+Hi, this is Altaf—a full stack developer specializing in ReactJs, FastAPI, NodeJs, React-native, NextJs, and Spring boot. I have been developing full-stack applications for more than 2 years. I am an expert in JavaScript because I love it so much.😍
 
-My core strengths include snappily learning new technologies, working singly or as part of a squad, and communicating effectively with specialized and non-technical people. I'm also proficient at troubleshooting bugs and chancing results to complex problems.  
-Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[ST Sabbir](https://youtube.com/@stsabbir)" to more than **1000 subscribers**.
+Also, I'm a YouTube video creator. I publish tech / programming-related content on my YouTube channel "[Altaf Technnology](https://www.youtube.com/@altaftechnology1)" to more than **1000 subscribers**.
 
    <p align="left">
       <a target="_blank" href="https://www.youtube.com/@altaftechnology1?sub_confirmation=1">
